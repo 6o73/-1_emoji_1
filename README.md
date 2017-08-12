@@ -6,6 +6,6 @@ separate file to be embedded in other code.
 
 Syntax like:
 ```
-python emoji.py 1 
-python emoji.py -0.3752
+# python emoji.py 1 
+# python emoji.py -0.3752
 ```
